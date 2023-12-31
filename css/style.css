@@ -1,0 +1,14 @@
+body {
+    margin: 150px;
+}
+
+button {
+    min-width: 30px;
+    min-height: 30px;
+    background-color: lightyellow;
+}
+
+.cell {
+    text-align: center;
+    background-color: lightgray
+}
